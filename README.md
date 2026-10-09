@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tanvi — an Engineering Student & Tech Enthusiast<br><br>🔭 Currently working on modern web applications, AI + Cybersecurity projects and Automations <br>🤝 Open to collaborating on Web Development, AI, Cybersecurity &  Automation projects<br>🛠️ I’m looking for help with advanced frontend development and scalable web applications<br>🌱 Learning React, TypeScript, Next.js, AI & Cybersecurity and Automations<br>💬 Ask me about Web projects, React, JavaScript, TypeScript, Tailwind CSS, UI development, AI and Cybersecurity & Automations<br>⚡ Fun fact: I love turning ideas into practical projects and learning something new every day!
+Hi, I'm Tanvi — an Engineering Student & Tech Enthusiast<br><br>🔭 Currently working on modern web applications, AI + Cybersecurity projects and Automations <br>🤝 Open to collaborating on Web Development, AI, Cybersecurity &  Automation projects<br>🛠️ Learning React, TypeScript, Next.js, AI & Cybersecurity and Automations<br>💬 Ask me about Web projects, React, JavaScript, TypeScript, Tailwind CSS, UI development, AI and Cybersecurity & Automations<br>⚡ Fun fact: I love turning ideas into practical projects and learning something new every day!
 
 
 ## 🌐 Socials:
